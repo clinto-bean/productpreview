@@ -178,7 +178,6 @@ footer {
         flex-direction: row;
         max-height: max-content;
         position: relative;
-        overflow: hidden;
     }
     
     .preview {
